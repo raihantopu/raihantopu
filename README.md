@@ -151,11 +151,11 @@
 <img src="https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 
-<a href="https://www.facebook.com/raihantopu/" target="_blank">
+<a href="https://gitlab.com/topuraihan" target="_blank">
 <img src="https://img.shields.io/badge/gitlab-%2324292e.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/raihantopu/" target="_blank">
+<a href="https://www.instagram.com/mtopuraihan/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%231E77B5.svg?&style=for-the-badge&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
