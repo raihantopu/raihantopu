@@ -1,66 +1,97 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  <h1 align="center">Hi there, I'm Md. Topu Raihan 👋</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Engineer;Insurance+Domain+Specialist;Android+App+Developer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+# 👋 Hi, I'm <b>Md. Topu Raihan</b>  
+<b>Backend Engineer • System Architect • Insurance Domain Specialist</b>
 
-  <p align="center">
-    <b>Java & Spring Boot Specialist | System Architecture | Scalable Solutions</b>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+%7C+Spring+Boot+Expert;Enterprise+Software+Engineering;Insurance+Domain+Architecture;Android+Developer;Open+Source+Contributor" />
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raihantopu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="raihantopu" />
-  </a>
+<!-- Hidden ATS keywords -->
+<b><sub>Java | Spring Boot | Microservices | System Design | SQL Optimization | Insurance Domain | API Engineering | Distributed Systems | Android Development</sub></b>
+
+<br/>
+
+<a href="https://github-profile-trophy.vercel.app/?username=raihantopu">
+  <img src="https://github-profile-trophy.vercel.app/?username=raihantopu&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+</a>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a results-driven **Backend Engineer** with a deep focus on the **Insurance Domain**. I architect high-availability systems that handle complex claims processing and policy management. Beyond the server side, I am passionate about **Native Android Development**.
-
-- 🔭 **Professional Focus:** Developing core logic for Enterprise **Insurance Applications**.
-- 🌱 **Learning:** Microservices Design Patterns, Kotlin Multiplatform, and Cloud Native Architecture.
-- ⚡ **Fun Fact:** I love optimizing SQL queries as much as I love my morning coffee.
-
-### 🚀 Current Projects
-
-I am currently building solutions that bridge utility and finance:
-
-> **📱 ScholarRead**
-> <br/> An Android application designed for managing reading habits, books, and academic homework efficiency.
-
-> **💰 FinanceTracker**
-> <br/> A personal finance management tool to track expenses, manage budgets, and visualize financial health.
+I am a **Backend Engineer** specializing in building scalable, domain-driven systems for **enterprise insurance applications**.  
+I engineer backend services using **Java, Spring Boot**, and strong **SQL optimization**, with a design philosophy rooted in clarity and maintainability.
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 Engineering Philosophy & Domain Expertise
+
+> **Scalable. Observable. Maintainable. Domain-driven.**  
+> *Clarity at every layer is the foundation of every system.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 Engineering Principles
+- Clean, intention-revealing code  
+- Microservice boundaries aligned to business domains  
+- SQL-first mindset with strong performance awareness  
+- Testing for correctness, monitoring for reliability  
+- Business needs drive tooling—not the reverse  
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 Insurance Domain Expertise
+- Retail & Bancassurance Underwriting Systems  
+- Digital Premium Collection (bKash/Nagad/Bank Gateway)  
+- Claims, Policy, Endorsements & Addendums  
+- Audit-compliant process automation  
+- High-performance SQL modeling for domain workflows  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Work
+
+### 📱 ScholarRead  
+A productivity-focused Android application for reading, organizing chapters, and academic tracking.
+
+### 💰 FinanceTracker  
+A personal finance management solution for budgeting, expense tracking, and visual analytics.
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  
-<table align="center" style="border: none;">
+
+<table>
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,bash" />
-      <br><strong>Languages</strong>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,kotlin,python,bash" />
+      <br/><b>Languages</b>
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle,androidstudio" />
-      <br><strong>Frameworks</strong>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,maven" />
+      <br/><b>Backend & Frameworks</b>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb,sqlserver" />
-      <br><strong>Databases</strong>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,sqlserver" />
+      <br/><b>Databases</b>
     </td>
-    <td align="center" style="border: none;">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
-      <br><strong>DevOps</strong>
+      <br/><b>DevOps & Tools</b>
     </td>
   </tr>
 </table>
@@ -68,7 +99,7 @@ I am currently building solutions that bridge utility and finance:
 </div>
 
 <details>
-<summary align="center"><b>View Detailed Tech Badge List</b></summary>
+<summary align="center"><b>Show Detailed Tech Badge List</b></summary>
 <div align="center">
   <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -85,50 +116,77 @@ I am currently building solutions that bridge utility and finance:
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=raihantopu&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-<table style="border: none;">
+<table>
   <tr>
-    <td align="center" style="border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihantopu&theme=radical" alt="Languages" />
+    <td align="center">
+      <!-- Most Commit Language -->
+      <img 
+        src="https://camo.githubusercontent.com/eed4156e8001702960423b13aa1574625257de987d1ecbb52b3a7141dc4a5b61/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d72616968616e746f7075267468656d653d7261646963616c"
+        height="160"
+      />
     </td>
-    <td align="center" style="border: none;">
-      <img src="https://streak-stats.demolab.com?user=raihantopu&theme=radical" alt="Streak" />
+    <td align="center">
+      <!-- GitHub Streak Stats -->
+      <img 
+        src="https://camo.githubusercontent.com/0921f874756ca7c4ed17e3c6c015efdf6637fb5f758f43dfeb8319b3006846c5/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d72616968616e746f7075267468656d653d7261646963616c"
+        height="160"
+      />
     </td>
   </tr>
 </table>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raihantopu&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Activity Graph -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raihantopu&theme=react-dark&hide_border=true&area=true"
+  />
+</p>
+
+
+---
+
+## 📅 Developer Activity
+
+- 🔄 **Current Focus:** Distributed Systems & System Design  
+- 🏗 **Building:** ScholarRead, FinanceTracker, Insurance modules  
+- ⏱️ **Last Updated:**  
+  <img src="https://img.shields.io/github/last-commit/raihantopu/raihantopu?label=Profile%20Updated&color=36BCF7&style=flat-square" />
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/raihantopu">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/topuraihan51">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://facebook.com/du.topuraihan/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-    <a href="https://linkedin.com/in/raihantopu" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/topuraihan51" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://www.facebook.com/du.topuraihan/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=raihantopu&style=flat-square&color=36BCF7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=raihantopu&style=flat-square&color=36BCF7" />
 </div>
