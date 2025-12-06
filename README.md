@@ -44,20 +44,22 @@ I am currently building solutions that bridge utility and finance:
   
 <table align="center" style="border: none;">
   <tr>
-    <td align="center" width="110" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,bash" perline="5" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,bash" />
       <br><strong>Languages</strong>
     </td>
-    <td align="center" width="110" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle,androidstudio" perline="5" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle,androidstudio" />
       <br><strong>Frameworks</strong>
     </td>
-    <td align="center" width="110" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb,sqlserver" perline="5" />
+  </tr>
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb,sqlserver" />
       <br><strong>Databases</strong>
     </td>
-    <td align="center" width="110" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" perline="5" />
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
       <br><strong>DevOps</strong>
     </td>
   </tr>
@@ -86,22 +88,26 @@ I am currently building solutions that bridge utility and finance:
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=raihantopu&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raihantopu&layout=compact&langs_count=6&theme=radical&bg_color=0D1117&title_color=36BCF7&hide=javascript,html,css,typescript,scss" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-  
-  <a href="https://github.com/raihantopu">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raihantopu&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=36BCF7" width="100%" alt="Activity Graph" />
-  </a>
+[![Stats](https://github-readme-stats.vercel.app/api?username=raihantopu&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihantopu&theme=radical" alt="Languages" />
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://streak-stats.demolab.com?user=raihantopu&theme=radical" alt="Streak" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raihantopu&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 <br/>
